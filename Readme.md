@@ -100,7 +100,7 @@ The dashboard is designed to answer questions such as:
 - The dashboard is not published or hosted on the Power BI Service. To interact with the dashboard, download the `.pbix` file and open it using Power BI Desktop.
 
 ## Entity Relationship Diagram 
-![model](Images\Model.png)
+![ERD](Images\Model.png)
 
 ## Author
 
